@@ -1,0 +1,46 @@
+What is the title of the highest rated series?
+What is the release year of the series "The Sopranos"?
+What is the runtime of the series "Breaking Bad"?
+What is the genre of the series "Game of Thrones"?
+What is the cast of the series "Stranger Things"?
+What is the synopsis of the series "Westworld"?
+What are the top 3 rated series in the genre of comedy?
+What is the highest rated series released in the year 2010?
+What is the average runtime of all the series in the genre of drama?
+Who are the main cast members of the series "Friends"?
+What is the synopsis of the series "The Office"?
+Which series has the longest runtime?
+What is the lowest rated series in the genre of action?
+What are the main cast members of the series "The Crown"?
+What is the synopsis of the series "The Handmaid's Tale"?
+What is the release year of the series "The Wire"?
+What is the genre of the series "Sherlock"?
+What is the rating of the series "The Big Bang Theory"?
+What is the cast of the series "House of Cards"?
+What is the synopsis of the series "The Marvelous Mrs. Maisel"?
+What are the top 3 series in the genre of crime?
+What is the highest rated series released in the year 2000?
+What is the average runtime of all the series in the genre of fantasy?
+Who are the main cast members of the series "The Blacklist"?
+What is the synopsis of the series "The Mentalist"?
+Which series has the shortest runtime?
+What is the lowest rated series in the genre of thriller?
+What are the main cast members of the series "How to Get Away with Murder"?
+What is the synopsis of the series "Breaking Bad"?
+What is the release year of the series "The X-Files"?
+What is the genre of the series "Lost"?
+What is the rating of the series "The Leftovers"?
+What is the cast of the series "The Good Place"?
+What is the synopsis of the series "The Witcher"?
+What are the top 3 series in the genre of horror?
+What is the highest rated series released in the year 1990?
+What is the average runtime of all the series in the genre of romance?
+Who are the main cast members of the series "The Office"?
+What is the synopsis of the series "The Walking Dead"?
+Which series has the most number of episodes?
+What is the lowest rated series in the genre of adventure?
+What are the main cast members of the series "The Boys"?
+What is the synopsis of the series "The Queen's Gambit"?
+What is the release year of the series "The Crown"?
+What is the genre of the series "The Blacklist"?
+What is the rating of the series
