@@ -2,8 +2,13 @@ import streamlit as st
 import time
 import os
 import openai
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 openai.organization = "org-0ypSMwDVq8KPrWQ2VoclmvC7"
-openai.api_key = "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"
+openai.api_key = os.getenv("API_KEY")
+
 
 st.sidebar.title('Developer\'s Contact')
 st.sidebar.markdown('[![Chethan-Reddy]'
