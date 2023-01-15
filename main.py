@@ -23,6 +23,7 @@ with st.spinner('Wait for it...'):
     time.sleep(5)
 
 if check == True:
+    st.caption("Hold on it might take a min!!")
     response = openai.Image.create(
     prompt=text,
     n=1,
