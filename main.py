@@ -3,7 +3,7 @@ import time
 import os
 import openai
 openai.organization = "org-0ypSMwDVq8KPrWQ2VoclmvC7"
-openai.api_key = "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"
+openai.api_key = "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"
 
 st.sidebar.title('Developer\'s Contact')
 st.sidebar.markdown('[![Chethan-Reddy]'
