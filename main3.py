@@ -8,7 +8,7 @@ text = st.text_area("Copy your python code here: ")
 
 
 
-openai.api_key = "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"
+openai.api_key = os.getenv("API_KEY")
 
 check = st.button("Click Here")
 

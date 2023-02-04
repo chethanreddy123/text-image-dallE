@@ -1,9 +1,10 @@
 import streamlit as st
+import os
 
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = os.getenv("API_KEY")
 
 engines = openai.Engine.list()
 
