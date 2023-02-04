@@ -39,4 +39,7 @@ if check == True:
                 image_url,
                 width=400, # Manually Adjust the width of the image as per requirement
             )
+    print(image_url)
     st.success('Done!')
+    
+
